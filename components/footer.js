@@ -67,11 +67,11 @@ export default function Footer() {
                 transition: { duration: 1 },
               }}
             >
-            <a href = '/resume-website/getintouch' className='hirenowa'>
+            <a href = '/resumewebsite/getintouch' className='hirenowa'>
                 <p className='hirenow'>AVAILABLE {month} {year}. HIRE NOW {'>'}</p>
             </a>
             </motion.div>
-            <a href = "https://drive.google.com/uc?export=download&id=1Lr8LW0R0hCYxSHGkCWZfDycvKArbJJk7">
+            <a href = "https://drive.google.com/uc?export=download&id=1uFuKDle29I-FDVVwIA9BZxU-2GIH_FBI">
                     <button class="button" ><span>Download Resume </span></button>
                 </a>
             </div>
@@ -88,16 +88,16 @@ export default function Footer() {
                 <p>Let us connect on linkedin!</p>
             </div>
             <div className='sitemap'>
-            <a href = '/resume-website/portfolio' >
+            <a href = '/resumewebsite/portfolio' >
                 <h4 className='githubtitle'>PORTFOLIO</h4>
                 </a>
                 <p>View my previous works.</p>
-            <a href = '/resume-website/about' >
+            <a href = '/resumewebsite/about' >
                 <h4 className='githubtitle'>ABOUT</h4>
                 </a>
                 <p>Learn more about my skills <br/>
                 and workflow.</p>    
-                <a href = '/resume-website/getintouch' >
+                <a href = '/resumewebsite/getintouch' >
                 <h4 className='githubtitle'>GET IN TOUCH</h4>
                 </a>
                 <p>Send a message to me.</p>

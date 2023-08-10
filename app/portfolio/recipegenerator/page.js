@@ -35,10 +35,9 @@ export default function Mscnc() {
                 even professional chefs. 
             </p>
             <h3>Demo Video</h3>
-            <video width="700" height="400" controls className='video'>                
-                <source src='/recipegeneratorvid.mp4' type="video/mp4"/>
-                Your browser does not support the video tag.
-                </video>
+            <iframe width="700" height="400"
+                    src="https://www.youtube.com/embed/OQc7I6lfHeU">
+                </iframe>
             </div>
             <div className='mscncimage'>
             <Image src = {rgbefore} alt = 'mscncdesktop'

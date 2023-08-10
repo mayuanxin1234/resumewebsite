@@ -37,10 +37,9 @@ export default function Mscnc() {
                 to track student details. 
             </p>
             <h3>Demo Video</h3>
-            <video width="700" height="400" controls className='video'>                
-                <source src='/powerconnectdemo.mp4' type="video/mp4"/>
-                Your browser does not support the video tag.
-                </video>
+                <iframe width="700" height="400"
+                    src="https://www.youtube.com/embed/SaAi4I9NUYg">
+                </iframe>
             </div>
             <div className='mscncimage'>
             <Image src = {powerconnect} alt = 'mscncdesktop'

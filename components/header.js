@@ -13,7 +13,7 @@ export default function Header() {
           
         </Head>
         <nav className="navbar navbar-expand-lg navbar-light bg-white">
-              <a href="/resume-website" className="logo">
+              <a href="/resumewebsite" className="logo">
                 <Image src = {logo} alt = 'Ma Yuanxin logo' width = {150} height={50}/>
               </a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -23,16 +23,16 @@ export default function Header() {
           <div className="header-items">
           <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
             <li className="nav-item active">
-            <a href="/resume-website">Home</a>
+            <a href="/resumewebsite">Home</a>
             </li>
             <li className="nav-item">
-              <a href="/resume-website/portfolio">Portfolio</a>
+              <a href="/resumewebsite/portfolio">Portfolio</a>
             </li>
             <li className="nav-item">
-            <a href="/resume-website/about">About</a>
+            <a href="/resumewebsite/about">About</a>
             </li>
             <li className="nav-item">
-            <a className="active" href="/resume-website/getintouch">Get In Touch</a>
+            <a className="active" href="/resumewebsite/getintouch">Get In Touch</a>
             </li>
           </ul>
           </div>

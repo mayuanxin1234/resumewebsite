@@ -87,6 +87,10 @@ h2 {
     .mainpage {
         flex-direction: column-reverse;
     }
+    .powerconnectdemo {
+        width: 95%;
+        height: 350px;
+    }
     .mscncdesktop {
         height: 100%;
         max-width: 100%;

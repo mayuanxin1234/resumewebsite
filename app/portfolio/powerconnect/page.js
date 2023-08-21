@@ -38,7 +38,7 @@ export default function Mscnc() {
             </p>
             <h3>Demo Video</h3>
                 <iframe width="700" height="400"
-                    src="https://www.youtube.com/embed/SaAi4I9NUYg">
+                    src="https://www.youtube.com/embed/SaAi4I9NUYg" className = 'powerconnectdemo'>
                 </iframe>
             </div>
             <div className='mscncimage'>

@@ -36,7 +36,7 @@ export default function Mscnc() {
             </p>
             <h3>Demo Video</h3>
             <iframe width="700" height="400"
-                    src="https://www.youtube.com/embed/OQc7I6lfHeU">
+                    src="https://www.youtube.com/embed/OQc7I6lfHeU" className='recipegeneratordemo'>
                 </iframe>
             </div>
             <div className='mscncimage'>

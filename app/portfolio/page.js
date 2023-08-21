@@ -91,7 +91,7 @@ export default function Portfolio() {
           <div >
           <a href = '/resumewebsite/portfolio/powerconnect'>
           <Image src = {powerconnect} alt = 'mscncmobile'
-            width = {500} height = {450} className='mscncmobile' />
+            width = {500} height = {250} className='mscncmobile' />
             </a>
           </div>
           

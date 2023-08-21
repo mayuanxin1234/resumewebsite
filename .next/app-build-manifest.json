@@ -1,40 +1,22 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/page.css",
-      "static/chunks/app/page.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/portfolio/mscnc/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/portfolio/mscnc/page.css",
-      "static/chunks/app/portfolio/mscnc/page.js"
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
     ],
-    "/portfolio/recipegenerator/page": [
+    "/portfolio/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/css/app/portfolio/recipegenerator/page.css",
-      "static/chunks/app/portfolio/recipegenerator/page.js"
-    ],
-    "/portfolio/powerconnect/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/portfolio/powerconnect/page.css",
-      "static/chunks/app/portfolio/powerconnect/page.js"
-    ],
-    "/about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/about/page.css",
-      "static/chunks/app/about/page.js"
+      "static/css/app/portfolio/page.css",
+      "static/chunks/app/portfolio/page.js"
     ]
   }
 }

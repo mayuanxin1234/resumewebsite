@@ -81,7 +81,7 @@ export default function Footer() {
                 <h4 className='githubtitle'>GITHUB</h4>
                 </a>
                 <p>Follow to see more of my side projects!</p>
-                <a href = 'https://www.linkedin.com/in/ma-yuanxin-93064b148/' target="_blank">
+                <a href = 'www.linkedin.com/in/yuanxin-ma-93064b148' target="_blank">
                 <Image src = {linkedin} alt = 'linkedinlogo' width = {30} height = {30}/>
                 <h4 className='githubtitle'>LINKEDIN</h4>
                 </a>

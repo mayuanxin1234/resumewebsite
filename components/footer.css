@@ -3,11 +3,12 @@ body {
   }
 .footer {
     background-color: #222;
-    display: flex;
-    flex-direction: row;
-    gap: 90px;
+    display: flex; flex-wrap: wrap;  
+    flex: 0 0 30%; 
+    justify-content:space-between;
     border-top: 0.8em solid;
     border-top-color: #008ccf;
+    padding-right: 10%;
 }
 .footerleft {
     padding-left: 20px;

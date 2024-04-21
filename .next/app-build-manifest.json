@@ -1,16 +1,109 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/page.css",
-      "static/chunks/app/page.js"
+    "/_not-found": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/chunks/app/_not-found-2baa755266daaf33.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/c9a3b95e60d92791.css",
+      "static/chunks/app/layout-f9a02a1acdc90015.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/af9f7ee35befaadb.css",
+      "static/chunks/app/about/page-73905f3386ebdb96.js"
+    ],
+    "/getintouch/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/a2fe914efe1c41ce.css",
+      "static/chunks/app/getintouch/page-346ff1a429b3207f.js"
+    ],
+    "/getintouch/success/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/c3386a2918a410f8.css",
+      "static/chunks/app/getintouch/success/page-29563f6420d509e3.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/4da4dc6307652f22.css",
+      "static/chunks/app/page-0f0f0bd30aeb6ce2.js"
+    ],
+    "/portfolio/mscnc/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/93013d2a804a25c8.css",
+      "static/chunks/app/portfolio/mscnc/page-9649db1808219913.js"
+    ],
+    "/portfolio/powerconnect/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/cd5bb7501256c073.css",
+      "static/chunks/app/portfolio/powerconnect/page-ee44097cebf18bfd.js"
+    ],
+    "/portfolio/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/664f4ac8f009e4b2.css",
+      "static/chunks/app/portfolio/page-bb641fafefa12e7c.js"
+    ],
+    "/portfolio/recipegenerator/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/943303380cccc26a.css",
+      "static/chunks/app/portfolio/recipegenerator/page-998b1837de33b713.js"
+    ],
+    "/portfolio/univers/page": [
+      "static/chunks/webpack-5523c4b4177f7484.js",
+      "static/chunks/fd9d1056-740a5e84e8f1d002.js",
+      "static/chunks/472-3a9fb15c74d322f0.js",
+      "static/chunks/main-app-f64088f045b58e5c.js",
+      "static/css/ca9147cced383c88.css",
+      "static/chunks/230-476141795144c91d.js",
+      "static/css/9f6779ffe435bc72.css",
+      "static/chunks/app/portfolio/univers/page-602e10e300061f5d.js"
     ]
   }
 }

@@ -1,4 +1,4 @@
-Hi! I am a Year 3 Computer Science Student at National University of Singapore (NUS). 
+Hi! I am a Year 4 Computer Science Student at National University of Singapore (NUS). 
 
 I have a deep passion for software engineering. 
 

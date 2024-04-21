@@ -1,4 +1,6 @@
 'use client'
+import evcharging from '../public/evcharging.svg'
+import evchargingmobile from '../public/evchargingmobile.svg'
 import Image from 'next/image'
 import Header from '../components/header'
 import Footer from '../components/footer'
@@ -13,6 +15,8 @@ import mscncmobile from '../public/mscncmobile.png'
 import powerconnect from '../public/powerconnect.png'
 import powerconnectlabel from '../public/powerconnectlabel.png'
 import recipegeneratorbefore from '../public/recipegeneratorbefore.png'
+import testing from '../public/testing.jpg'
+import univers from '../public/univers.png'
 
 export default function Home() {
   return (
@@ -21,8 +25,8 @@ export default function Home() {
       <div className='description'>
         <h1 className='descriptionheading'>Computer Science student at <br/>
         National University of Singapore</h1>
-        <p className = 'descriptionparagraph'>Hi. I&apos;m Yuanxin, a Year 3 computer science student with a passion in <br/>
-        Front-End Development and Artifical Intelligence.</p>
+        <p className = 'descriptionparagraph'>Hi. I&apos;m Yuanxin, a Year 4 computer science student with a passion in <br/>
+        Front-End Development and Quality Assurance.</p>
       </div>
       <div className ='description2'>
         <div>
@@ -50,10 +54,52 @@ export default function Home() {
         latest web development <br/>
         framework. <br/></p>
         </div>
+        <div>
+        <Image src = {testing} alt = 'testing' 
+        className='nextjs' width = {280} height = {280}/>
+        <h3>Quality Assurance</h3>
+        <p>Software Testing ensures <br/>
+        optimal product launch <br/>
+        and worry-free experience.</p>
+        </div>
         </div>
         <hr/>
         <div className='experience'>
           <h1>Experience</h1>
+          <div className='mscnc'>
+            <div>
+            <motion.div
+              whileHover={{
+                scale: 1.04,
+                transition: { duration: 1 },
+              }}
+            >
+          <a href = '/resumewebsite/portfolio/univers'>
+          <Image src = {univers} alt = 'universlogo'
+          width ={300} height = {200} />
+          
+          <h3>
+          {'>'} Univers Pte. Ltd. (Formerly Envision Digital Pte. Ltd.)
+          </h3>
+          </a>
+          </motion.div>
+          <p>
+            I was the Quality Assurance Engineer in-charge of the Electric-Vehicle - Software As A Service project.
+          </p>
+          </div>
+          <div>
+          <a href = '/resumewebsite/portfolio/univers'>
+            <Image src = {evcharging} alt = 'evcharging'
+            width = {600} height = {450} className='mscncdesktop'/>
+            </a>
+          </div>
+          <div>
+          <a href = '/resumewebsite/portfolio/univers'>
+          <Image src = {evchargingmobile} alt = 'evchargingmobile'
+            width = {450} height = {450} className='mscncmobile' />
+            </a>
+          </div>
+          </div>
           <div className='mscnc'>
             <div>
             <motion.div

@@ -59,10 +59,10 @@ export default function Footer() {
             height={125}
           />
           <p className="profiledescription">
-            I am a year 4 NUS computer science student with <br />
+            I am a Masters SJSU computer science student with <br />
             a passion in front-end development and experience <br />
-            in working back-end. I am always looking for new <br />
-            learning experiences.{" "}
+            in working back-end/Quality Assurance. I am always <br />
+            looking for new learning experiences.{" "}
           </p>
         </div>
         <p className="interndescription">Software Engineer Intern.</p>
@@ -78,7 +78,7 @@ export default function Footer() {
             </p>
           </a>
         </motion.div>
-        <a href="https://drive.google.com/uc?export=download&id=1uFuKDle29I-FDVVwIA9BZxU-2GIH_FBI">
+        <a href="https://drive.google.com/uc?export=download&id=1BDgS6KbQo8n-WBDAnOrFatnqr8lKvYcf">
           <button class="button">
             <span>Download Resume </span>
           </button>
@@ -90,14 +90,6 @@ export default function Footer() {
           <h4 className="githubtitle">GITHUB</h4>
         </a>
         <p>Follow to see more of my side projects!</p>
-        <a
-          href="https://www.linkedin.com/in/yuanxin-ma-93064b148"
-          target="_blank"
-        >
-          <Image src={linkedin} alt="linkedinlogo" width={30} height={30} />
-          <h4 className="githubtitle">LINKEDIN</h4>
-        </a>
-        <p>Let us connect on linkedin!</p>
       </div>
       <div className="sitemap">
         <a href="/resumewebsite/portfolio">

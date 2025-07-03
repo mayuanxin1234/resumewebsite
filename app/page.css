@@ -38,9 +38,6 @@ p {
 
 .mscnc {
     display: flex;
-    align-items: center;
-    margin-bottom: 1em;
-    gap: 20px;
     justify-content: center;
     flex-direction: row;
     margin: 10px;

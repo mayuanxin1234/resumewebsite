@@ -12,7 +12,7 @@ export default function Mscnc() {
            <Header/>
            <div className='mainpage'>
             <div className='leftpage'>
-                <a href = "https://univers.com/products/charge">
+                <a href = "https://univers.com/products/enos-charge">
            <button class="button-viewwebsite" ><span>View Website </span></button>
            </a>
            <div className='responsibilities'>
@@ -21,6 +21,7 @@ export default function Mscnc() {
                 <li>Postman</li>
                 <li>mySQL</li>
                 <li>Mjolnir</li>
+                <li>Cypress</li>
                 <li>API Automation</li>
                 <li>Regression Testing</li>
                 <li>Integration Testing</li>
@@ -28,7 +29,7 @@ export default function Mscnc() {
             </ul>
            </div>
            </div>
-           <div>
+           <div className='rightpage'>
             <h1>Univers</h1>
             <p>Working as a Quality Assurance Engineer intern, I collaborated with other engineers to ensure
                 a bug-free product during launch day.
@@ -38,19 +39,19 @@ export default function Mscnc() {
             </div>
             <div className='mscncimage'>
             <Image src = {evcharging} alt = 'evcharging'
-            width = {1200} height = {450} className='mscncdesktop'/>
+             className='mscncdesktop'/>
             
             <div>
             <Image src = {evchargingmobile} alt = 'evchargingmobile'
-            width = {1200} height = {450} className='mscncmobile' />
+             className='mscncmobile' />
             </div>
-                <p>The technologies used were mySQL, Postman, API automation.</p>
+                <p>The technologies used were mySQL, Postman, Cypress, API automation.</p>
             </div>
             <div>
                 <h2>Struggles Faced</h2>
                 <p>The main struggle faced was maximising test coverage given a limited time. Automation was key
                     to our success as we eliminated many repetitive regression testing so as to increase our regression
-                    testing efficency.
+                    testing efficency. Up to 50% reduction in testing time and error rate through postman automation.
                 </p>
             </div>
            </div>

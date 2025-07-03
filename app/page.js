@@ -24,9 +24,9 @@ export default function Home() {
       <Header/>
       <div className='description'>
         <h1 className='descriptionheading'>Computer Science student at <br/>
-        National University of Singapore</h1>
-        <p className = 'descriptionparagraph'>Hi. I&apos;m Yuanxin, a Year 4 computer science student with a passion in <br/>
-        Front-End Development and Quality Assurance.</p>
+        San Jose State University</h1>
+        <p className = 'descriptionparagraph'>Hi. I&apos;m Yuanxin, a Masters computer science student with a passion in <br/>
+        Front-End Development and Quality Assurance. Located in Bay Area.</p>
       </div>
       <div className ='description2'>
         <div>

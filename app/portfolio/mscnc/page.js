@@ -46,8 +46,8 @@ export default function Mscnc() {
             </div>
             <div>
                 <h2>Struggles Faced</h2>
-                <p>The main difficulty faced by the company was to present their products in a clear and succint <br/>
-                manner. Hence, I incorporated various design elements to highlight their products in every possible <br/>
+                <p>The main difficulty faced by the company was to present their products in a clear and succint 
+                manner. Hence, I incorporated various design elements to highlight their products in every possible 
                 image as shown in the home landing page. 
                 </p>
             </div>

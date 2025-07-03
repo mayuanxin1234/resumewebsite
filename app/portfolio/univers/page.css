@@ -2,7 +2,6 @@
     display: flex;
     gap: 20px;
     flex-direction: row;
-    padding-left: 10px;
 }
 .button-viewwebsite {
     display: inline-block;
@@ -51,6 +50,7 @@ h1 {
     text-rendering: optimizeLegibility;
     font-size: clamp(1.8em,calc(1em + 2.4vw),3em);
     line-height: 1.2;
+    
 }
 p {
     margin-top: 0.4em;
@@ -60,18 +60,23 @@ p {
 .leftpage {
     padding-top: 15%;
 }
+.rightpage{
+    min-width: 0;
+}
 .descriptiontext {
     font-weight: 300;
 }
 .mscncimage {
     background-color: rgb(240, 240, 240);
-    width: fit-content;
-    padding: 20px;
+
+    padding: 10px;
+    min-width: 0;
 }
 .responsibilities {
     background-color:rgb(240, 240, 240);
     padding: 10px;
     width: fit-content;
+
 
 }
 h2 {

@@ -1,13 +1,9 @@
 {
-  "/_not-found": "app/_not-found.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/not-found": "app/not-found.js",
+  "/portfolio/page": "app/portfolio/page.js",
+  "/portfolio/univers/page": "app/portfolio/univers/page.js",
+  "/portfolio/mscnc/page": "app/portfolio/mscnc/page.js",
   "/about/page": "app/about/page.js",
   "/getintouch/page": "app/getintouch/page.js",
-  "/getintouch/success/page": "app/getintouch/success/page.js",
-  "/page": "app/page.js",
-  "/portfolio/mscnc/page": "app/portfolio/mscnc/page.js",
-  "/portfolio/powerconnect/page": "app/portfolio/powerconnect/page.js",
-  "/portfolio/page": "app/portfolio/page.js",
-  "/portfolio/recipegenerator/page": "app/portfolio/recipegenerator/page.js",
-  "/portfolio/univers/page": "app/portfolio/univers/page.js"
+  "/page": "app/page.js"
 }
